@@ -1,0 +1,14 @@
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\bin\Debug\netcoreapp2.2\DotNetCoreAPIDesign.deps.json
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\bin\Debug\netcoreapp2.2\DotNetCoreAPIDesign.runtimeconfig.json
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\bin\Debug\netcoreapp2.2\DotNetCoreAPIDesign.runtimeconfig.dev.json
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\bin\Debug\netcoreapp2.2\DotNetCoreAPIDesign.dll
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\bin\Debug\netcoreapp2.2\DotNetCoreAPIDesign.pdb
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\obj\Debug\netcoreapp2.2\DotNetCoreAPIDesign.csprojAssemblyReference.cache
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\obj\Debug\netcoreapp2.2\DotNetCoreAPIDesign.csproj.CoreCompileInputs.cache
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\obj\Debug\netcoreapp2.2\DotNetCoreAPIDesign.RazorAssemblyInfo.cache
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\obj\Debug\netcoreapp2.2\DotNetCoreAPIDesign.RazorAssemblyInfo.cs
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\obj\Debug\netcoreapp2.2\DotNetCoreAPIDesign.AssemblyInfoInputs.cache
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\obj\Debug\netcoreapp2.2\DotNetCoreAPIDesign.AssemblyInfo.cs
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\obj\Debug\netcoreapp2.2\DotNetCoreAPIDesign.RazorTargetAssemblyInfo.cache
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\obj\Debug\netcoreapp2.2\DotNetCoreAPIDesign.dll
+C:\Projects\DotNetCoreAPIDesign\DotNetCoreAPIDesign\obj\Debug\netcoreapp2.2\DotNetCoreAPIDesign.pdb
